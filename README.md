@@ -22,6 +22,8 @@ donnera le retour JSON suivant :
 }
 ```
 
+* Compatibilité Java 8
+
 * Lancer l'application :
 
 via SpringBoot et Maven :
