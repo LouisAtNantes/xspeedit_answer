@@ -23,7 +23,9 @@ donnera le retour JSON suivant :
 ```
 
 * Lancer l'application :
+
 via SpringBoot et Maven :
 `mvn spring-boot:run`
+
 via le JAR compilé :
 `java -jar xspeedit.jar`
